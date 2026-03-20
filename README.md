@@ -31,6 +31,10 @@ Backend Engineer · Spring Boot · AWS
 
 ## 🌱 Experience
 
+2024.07
+
+- Excellence Award — Inha University LINC3.0 × IGRUS Hackathon
+
 2025.09 - 2025.02
 
 - UMC SpringBoot Junior
