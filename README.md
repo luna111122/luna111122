@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Hyewon Kwon (Luna) 
 
-<!--
-**luna111122/luna111122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer · Spring Boot · AWS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Projects
+
+### Kickmate
+> K-League AI commentary service with real-time audio streaming
+
+- AI-generated match commentary using TTS + SSE streaming
+- Spring Boot · AWS · MySQL
+
+### Muses
+> Offline event crowdfunding platform
+
+- PG payment, QR ticketing
+- Spring Boot · MySQL · AWS (EC2, RDS, S3)
+
+---
+
+## 🎓  Certifications
+
+- OPIc **AL**
+- **SQLD** (SQL Developer)
+
+---
+
+
+## 🌱 Experience
+
+2025.09 - 2025.02
+
+- UMC SpringBoot Junior
+
+2024.04 - 2025.02
+
+- **Inha University Programming Club IGRUS** — Technical Operations Staff 
+
+2024.07
+
+- 2024 INHA SW NET-ZERO Hackathon Organizer
+
+
+---  
+
+## 📬 Contact
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hyewonkwon100@gmail.com)
